@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project, conducted at the Technological Institue of Costa Rica, focuses on the practical verification of a proposed exercise in the Dynamics course. 
+This project, conducted at the Technological Institute of Costa Rica, focuses on the practical verification of a proposed exercise in the Dynamics course. 
 
 The aim is to corroborate theoretical results using various validation methods, incorporating dynamic analysis through SolidWorks software. The project involves simulations in SolidWorks and SolidWorks Motion, manual calculations presented in the calculation report, and a comprehensive comparison of theoretical and simulated results in the written report.
 
